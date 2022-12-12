@@ -4,4 +4,4 @@ Neste treimamento foram abordados os seguintes conhecimentos: Processo de teste 
 
 ### Ferramentas utilizadas
 
-Java 8, Maven (Apache Maven 3.8.1), Mockito 5 e Spring 2.7.6
+Java 8, Maven (Apache Maven 3.8.1), Mockito 5, JUnit 5 e Spring 2.7.6
